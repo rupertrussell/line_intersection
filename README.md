@@ -5,3 +5,5 @@
 
 I use this code when createing inlamic designs when I need to locate the intersection of 2 guidelines
 See: https://www.amazon.com/Islamic-Geometric-Patterns-Eric-Broug/dp/050028721X
+
+See: https://rosettacode.org/wiki/Find_the_intersection_of_two_lines
